@@ -84,7 +84,7 @@ def test_base_recipe_creation(processed_links_from_sitemap):
         ingredient_dict_from_html = make_ingredient_dict_from_link(link)
         if ingredient_dict_from_html:
 
-            json_link = link.replace('.html', '.json').replace('website/', '')
+            json_link = link.replace('.html', '.json').replace('docs/', '')
             json_string = get_html_from_url(json_link)
             ingredients_from_json = \
                 json.loads(json.loads(json_string)['ingredients'][0])

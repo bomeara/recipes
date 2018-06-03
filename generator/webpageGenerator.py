@@ -491,7 +491,7 @@ if __name__ == '__main__':
         category_html = category_html.replace(MENU_LINKS_TAG, \
                                               category_menu_links_html)
 
-        category_page_name = '/website/allRecipes/' + recipe_category + '.html'
+        category_page_name = '/docs/allRecipes/' + recipe_category + '.html'
         ALL_URLS.append('http://bomeara.github.io/recipes' + \
                         category_page_name)
         export_string_to_file('..' + category_page_name, category_html)
@@ -505,7 +505,7 @@ if __name__ == '__main__':
 
             recipe_name = recipe['recipeName'][0].split('.')[0]
 
-            output_recipe_html_path = '/website/allRecipes/' + \
+            output_recipe_html_path = '/docs/allRecipes/' + \
                 remove_spaces(recipe['recipeCategory'][0]) + \
                 '/' + remove_spaces(recipe_name) + '.html'
             ALL_URLS.append('http://bomeara.github.io/recipes' + \
@@ -533,7 +533,7 @@ if __name__ == '__main__':
             recipe_html = recipe_html.replace(RECIPE_ORIGIN_TAG, \
                                               recipe_origin_html)
 
-            subprocess.call(["mkdir", "-p", "../website/allRecipes/" + \
+            subprocess.call(["mkdir", "-p", "../docs/allRecipes/" + \
                             remove_spaces(recipe['recipeCategory'][0])])
 
             export_string_to_file('..' + output_recipe_html_path, recipe_html)

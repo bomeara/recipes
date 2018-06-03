@@ -147,7 +147,7 @@ def test_recipe_scaling(processed_links_from_sitemap):
             scaling_vector = browser.execute_script('return scalingValues')
             assert scaling_vector[0] == '1'
 
-            json_link = link.replace('.html', '.json').replace('website/', '')
+            json_link = link.replace('.html', '.json').replace('docs/', '')
             json_string = get_html_from_url(json_link)
             ingredients_from_json = \
                 json.loads(json.loads(json_string)['ingredients'][0])
@@ -190,7 +190,7 @@ def test_recipe_scaling(processed_links_from_sitemap):
                 if ingredient_dict_from_html:
 
                     json_link = link.replace('.html', '.json')
-                    json_link = json_link.replace('website/', '')
+                    json_link = json_link.replace('docs/', '')
                     json_string = get_html_from_url(json_link)
                     ingredients_from_json = \
                         json.loads(json.loads(json_string)['ingredients'][0])

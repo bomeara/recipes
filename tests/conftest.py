@@ -10,7 +10,7 @@ def sitemap_name():
 
 @pytest.fixture(scope="session")
 def base_url():
-    return 'https://bomeara.github.io/recipes/website/index.html'
+    return 'https://bomeara.github.io/recipes/docs/index.html'
 
 @pytest.fixture(scope="session")
 def xml_tag():
