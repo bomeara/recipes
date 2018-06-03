@@ -434,6 +434,7 @@ def prettify_string(html_string, string_format):
     '''
     parsed_html = BeautifulSoup(html_string, string_format)
     html_string = parsed_html.prettify()
+    html_string = html_string.encode('utf-8')
     return html_string
 
 def add_spaces_to_proper(name):
