@@ -4,7 +4,11 @@
 
 ![Recipe Cards](docs/images/recipe_card.png)
 
-This is a repo for dynamically creating a website for storing and hosting O'Meara family recipes.  It was forked from https://github.com/jmwerner/recipes. Thanks for your work, @jwerner!
+
+
+This is a repo for dynamically creating a website for storing and hosting O'Meara family recipes. You can see them at https://bomeara.github.io/recipes/.
+
+It was forked from https://github.com/jmwerner/recipes. Thanks for your work, @jwerner!
 
 To add a recipe
 
@@ -17,6 +21,13 @@ git add ../allRecipes/*/*
 git add ../docs/allRecipes/*/*
 git commit -m"added another recipe" -a
 git push
+```
+
+To install the necessary code to run locally
+
+```
+pip install beautifulsoup4
+pip install lxml
 ```
 
 ### Sources of inspiration/code robbing
