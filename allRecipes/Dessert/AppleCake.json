@@ -1,0 +1,27 @@
+{
+    "recipeName": [
+        "Apple Cake"
+    ],
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeSource": [
+        "Naomi"
+    ],
+    "recipeLink": [
+        "https://www.allrecipes.com/recipe/220480/adams-apple-cake/"
+    ],
+    "directions": [
+        "[[\"Preheat oven to 350 degrees F.\"],[\"Grease a 9x13-inch baking pan.\"],[\"Combine flour, sugar, vegetable oil, eggs, salt, baking soda, vanilla extract, and cinnamon in a large bowl; mix well.\"],[\"Stir in the chopped apples until just combined.\"],[\"Pour batter into the prepared baking pan.\"],[\"Bake in the preheated oven until a toothpick inserted into the center comes out clean, about one hour.\"],[\"Let cool.\"],[\"\"],[\"\"],[\"\"]]"
+    ],
+    "timestamp": [
+        "20180603-172219"
+    ],
+    "notes": [
+        "Tip\nAluminum foil can be used to keep food moist, cook it evenly, and make clean-up easier."
+    ],
+    "ingredients": [
+        "[{\"number\":[\"3\"],\"units\":[\"Cup(s)\"],\"name\":[\"all-purpose flour\"],\"category\":[\"\"]},{\"number\":[\"2\"],\"units\":[\"Cup(s)\"],\"name\":[\"white sugar\"],\"category\":[\"\"]},{\"number\":[\"3/4\"],\"units\":[\"Cup(s)\"],\"name\":[\"vegetable oil\"],\"category\":[\"\"]},{\"number\":[\"3\"],\"units\":[\"Whole\"],\"name\":[\"eggs\"],\"category\":[\"\"]},{\"number\":[\"1\"],\"units\":[\"Teaspoon(s)\"],\"name\":[\"salt\"],\"category\":[\"\"]},{\"number\":[\"1/2\"],\"units\":[\"Teaspoon(s)\"],\"name\":[\"baking soda\"],\"category\":[\"\"]},{\"number\":[\"1\"],\"units\":[\"Teaspoon(s)\"],\"name\":[\"vanilla extract\"],\"category\":[\"\"]},{\"number\":[\"1\"],\"units\":[\"Teaspoon(s)\"],\"name\":[\"ground cinnamon\"],\"category\":[\"\"]},{\"number\":[\"4\"],\"units\":[\"Whole\"],\"name\":[\"apples - peeled, cored, and chopped\"],\"category\":[\"\"]},{\"number\":[\"\"],\"units\":[\"\"],\"name\":[\"\"],\"category\":[\"\"]},{\"number\":[\"\"],\"units\":[\"\"],\"name\":[\"\"],\"category\":[\"\"]},{\"number\":[\"\"],\"units\":[\"\"],\"name\":[\"\"],\"category\":[\"\"]},{\"number\":[\"\"],\"units\":[\"\"],\"name\":[\"\"],\"category\":[\"\"]},{\"number\":[\"\"],\"units\":[\"\"],\"name\":[\"\"],\"category\":[\"\"]},{\"number\":[\"\"],\"units\":[\"\"],\"name\":[\"\"],\"category\":[\"\"]}]"
+    ]
+}
+

@@ -1,0 +1,27 @@
+{
+    "recipeName": [
+        "Lemon Cookies"
+    ],
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeSource": [
+        "Naomi"
+    ],
+    "recipeLink": [
+        "https://www.marthastewart.com/315603/glazed-lemon-cookies?printview"
+    ],
+    "directions": [
+        "[[\"Preheat oven to 350 degrees.\"],[\"In a medium bowl, whisk together flour, baking soda, salt, and lemon zest.\"],[\"In a large bowl, using an electric mixer, beat butter and sugar until light and fluffy.\"],[\"Add egg, vanilla, and lemon juice and beat until combined.\"],[\"With mixer on low, beat in flour mixture.\"],[\"Drop dough by heaping tablespoons, 1 inch apart, onto baking sheets.\"],[\"Bake until edges are golden, 15 to 20 minutes.\"],[\"Rotate sheets halfway through.\"],[\"Let cool.\"],[\"\"]]"
+    ],
+    "timestamp": [
+        "20180603-173924"
+    ],
+    "notes": [
+        "For orange- or lime-flavored cookies, substitute the zest and juice of those fruits. And remember, always zest the lemons before juicing them."
+    ],
+    "ingredients": [
+        "[{\"number\":[\"2\"],\"units\":[\"Cup(s)\"],\"name\":[\"unbleached all-purpose flour\"],\"category\":[\"\"]},{\"number\":[\"1/2\"],\"units\":[\"Teaspoon(s)\"],\"name\":[\"baking soda\"],\"category\":[\"\"]},{\"number\":[\"1/2\"],\"units\":[\"Teaspoon(s)\"],\"name\":[\"kosher salt\"],\"category\":[\"\"]},{\"number\":[\"1\"],\"units\":[\"Tablespoon(s)\"],\"name\":[\"finely grated lemon zest\"],\"category\":[\"\"]},{\"number\":[\"2\"],\"units\":[\"Tablespoon(s)\"],\"name\":[\"fresh lemon juice\"],\"category\":[\"\"]},{\"number\":[\"1\"],\"units\":[\"Whole\"],\"name\":[\"stick of unsalted butter, room temp\"],\"category\":[\"\"]},{\"number\":[\"1\"],\"units\":[\"Cup(s)\"],\"name\":[\"sugar\"],\"category\":[\"\"]},{\"number\":[\"1\"],\"units\":[\"Whole\"],\"name\":[\" large egg\"],\"category\":[\"\"]},{\"number\":[\"1\"],\"units\":[\"Teaspoon(s)\"],\"name\":[\" pure vanilla extract\"],\"category\":[\"\"]},{\"number\":[\"\"],\"units\":[\"\"],\"name\":[\"\"],\"category\":[\"\"]},{\"number\":[\"\"],\"units\":[\"\"],\"name\":[\"\"],\"category\":[\"\"]},{\"number\":[\"\"],\"units\":[\"\"],\"name\":[\"\"],\"category\":[\"\"]},{\"number\":[\"\"],\"units\":[\"\"],\"name\":[\"\"],\"category\":[\"\"]},{\"number\":[\"\"],\"units\":[\"\"],\"name\":[\"\"],\"category\":[\"\"]},{\"number\":[\"\"],\"units\":[\"\"],\"name\":[\"\"],\"category\":[\"\"]}]"
+    ]
+}
+
